@@ -26,7 +26,7 @@
 
 <img width="569" alt="Screenshot 2024-08-19 at 9 51 11 PM" src="https://github.com/user-attachments/assets/adc1b11b-f134-4a21-a2f7-f1a83017787e">
 
-%Contributors
+## Contributors
 - meet.kachhadiya@mytum.de - Meet Kachhadiya
 - robin.schukrafft@tum.de - Robin Schukrafft
 - Sauhard.dubey@tum.de - Sauhard Dubey
