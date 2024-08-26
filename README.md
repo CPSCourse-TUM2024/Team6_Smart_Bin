@@ -1,8 +1,3 @@
-## Link to pth file
-  Please download model.pth file from link given below
-  [Link](https://syncandshare.lrz.de/getlink/fiGD6nginDhaaMAVCe1fX4/)
-
-
 ## Component Required
 - Raspberry Pi 5 : Acts as the brain of the system, processing inputs from the sensors and controlling the mechanical actions of the system.
 - Raspberry Pi Camera Module 2: Captures images of waste for classification using computer vision algorithms.
